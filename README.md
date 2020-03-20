@@ -14,7 +14,7 @@ intro ของโปรเจคนี้ (แรงบรรดาลใจ)
 ![alt text](https://user-images.githubusercontent.com/61577292/77170125-2c39cb80-6aed-11ea-81d8-e01ac93d0fc0.jpg)
 
 ## 3. หน้าจอยืนยันบัญชีผู้ใช้งาน
- - เป็นหน้าจอสำหรับยืนยันการเข้าใช้งานบัญชี Facebook ด้วย FirebaseAuthen
+ - เป็นหน้าจอที่ใช้สำหรับยืนยันการเข้าใช้งานบัญชี Facebook ด้วย FirebaseAuthen ซึ่งจะมีการสอบถามว่าต้องการดำเนินการต่อหรือไม่
 ![alt text](https://user-images.githubusercontent.com/61577292/77170350-820e7380-6aed-11ea-8dc1-152e7ffc57bd.jpg)
 
 ## 4. หน้าจอผู้ใช้งาน

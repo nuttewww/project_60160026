@@ -33,4 +33,4 @@
 
 ## 6. หน้าจอแสดงสมาชิกภายในทีม (4/4)
 ### - หลังจากยืนยันสำเร็จ จะมีการขึ้นการยืนยันสำเร็จ
-![alt text](https://user-images.githubusercontent.com/50071267/77147801-b881c980-6ac0-11ea-8a72-0c0985baebaf.jpg)
+![alt text](https://user-images.githubusercontent.com/61577292/77171057-7a9b9a00-6aee-11ea-9b41-0afcaccc04a8.jpg)

@@ -5,7 +5,7 @@
  
 ## 1. หน้าแรก
 ### - มี 1 เมนู คือ ดำเนินการต่อด้วย facebook เพื่อเข้าสู่หน้าจอของผู้ใช้ที่เข้าด้วย facebook  
-![alt text](https://user-images.githubusercontent.com/50071267/77147598-35f90a00-6ac0-11ea-980c-2ad36bf098aa.jpg)
+![alt text](https://user-images.githubusercontent.com/61577292/77169245-c3058880-6aeb-11ea-9487-b6077eac9392.jpg)
 
 ## 2. หน้าจอผู้ใช้
 ### - จะมี 2 เมนูคือ logout ที่ใช้ออกจากระบบ และ detail ที่ใช้สำหรับดูรายละเอียดสมาชิกภายในทีม 

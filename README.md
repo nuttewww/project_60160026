@@ -7,10 +7,10 @@
 เพื่อหลบจากเชื้อไวรัสโควิด-19 ดังนั้นข้าพเจ้าจึงมีความสนใจที่อยากจะทดลองทำแอพลิเคชั่นสั่งซื้ออาหารออนไลน์ซึ่งเป็นแอพลิเคชั่นซึ่งเป็นที่นิยมในขณะนี้เป็นอย่างมาก "
 
 - องค์ประกอบที่นำมาพัฒนาแอปพลิเคชัน มีดังนี้
-> Fragment
-> RecyclerView
-> Facebook Authen
-> noSQL (realtime database)
+> Fragment,
+>  RecyclerView,
+>  Facebook Authen,
+>  noSQL (realtime database),
 > Dialog
  
 ## 1. หน้าแรก

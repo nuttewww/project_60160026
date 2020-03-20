@@ -7,6 +7,14 @@
 ### - มี 1 เมนู คือ ดำเนินการต่อด้วย facebook เพื่อเข้าสู่หน้าจอของผู้ใช้ที่เข้าด้วย facebook  
 ![alt text](https://user-images.githubusercontent.com/61577292/77169245-c3058880-6aeb-11ea-9487-b6077eac9392.jpg)
 
+## 2. หน้าจอเข้าสู่ระบบ
+### - จะมี 2 เมนูคือ logout ที่ใช้ออกจากระบบ และ detail ที่ใช้สำหรับดูรายละเอียดสมาชิกภายในทีม 
+![alt text](https://user-images.githubusercontent.com/61577292/77170125-2c39cb80-6aed-11ea-81d8-e01ac93d0fc0.jpg)
+
+## 2. หน้าจอยืนยันบัญชีผู้ใช้งาน
+### - จะมี 2 เมนูคือ logout ที่ใช้ออกจากระบบ และ detail ที่ใช้สำหรับดูรายละเอียดสมาชิกภายในทีม 
+![alt text](https://user-images.githubusercontent.com/61577292/77170125-2c39cb80-6aed-11ea-81d8-e01ac93d0fc0.jpg)
+
 ## 2. หน้าจอผู้ใช้
 ### - จะมี 2 เมนูคือ logout ที่ใช้ออกจากระบบ และ detail ที่ใช้สำหรับดูรายละเอียดสมาชิกภายในทีม 
 ![alt text](https://user-images.githubusercontent.com/61577292/77170125-2c39cb80-6aed-11ea-81d8-e01ac93d0fc0.jpg)

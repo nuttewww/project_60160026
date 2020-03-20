@@ -11,6 +11,7 @@ intro ของโปรเจคนี้ (แรงบรรดาลใจ)
 
 ## 2. หน้าจอเข้าสู่ระบบ
  - หน้าจอสำหรับใส่ Username และ Password ของบัญชี Facebook ของผู้ใช้งาน
+ 
 ![alt text](https://user-images.githubusercontent.com/61577292/77170125-2c39cb80-6aed-11ea-81d8-e01ac93d0fc0.jpg)
 
 ## 3. หน้าจอยืนยันบัญชีผู้ใช้งาน

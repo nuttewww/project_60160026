@@ -13,7 +13,7 @@
 
 ## 2. หน้าจอยืนยันบัญชีผู้ใช้งาน
 ### - จะมี 2 เมนูคือ logout ที่ใช้ออกจากระบบ และ detail ที่ใช้สำหรับดูรายละเอียดสมาชิกภายในทีม 
-![alt text](https://user-images.githubusercontent.com/61577292/77170125-2c39cb80-6aed-11ea-81d8-e01ac93d0fc0.jpg)
+![alt text](https://user-images.githubusercontent.com/61577292/77170350-820e7380-6aed-11ea-8dc1-152e7ffc57bd.jpg)
 
 ## 2. หน้าจอผู้ใช้
 ### - จะมี 2 เมนูคือ logout ที่ใช้ออกจากระบบ และ detail ที่ใช้สำหรับดูรายละเอียดสมาชิกภายในทีม 

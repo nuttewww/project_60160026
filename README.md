@@ -9,7 +9,7 @@
 
 ## 2. หน้าจอผู้ใช้
 ### - จะมี 2 เมนูคือ logout ที่ใช้ออกจากระบบ และ detail ที่ใช้สำหรับดูรายละเอียดสมาชิกภายในทีม 
-![alt text](https://user-images.githubusercontent.com/61577292/77169393-ff38e900-6aeb-11ea-8ca4-5f095dc2f586.png)
+![alt text](https://user-images.githubusercontent.com/61577292/77170125-2c39cb80-6aed-11ea-81d8-e01ac93d0fc0.jpg)
 
 ## 3. หน้าจอแสดงสมาชิกภายในทีม (1/4)
 ### - จะแสดงรูปและชื่อสมาชิกภายในทีม
